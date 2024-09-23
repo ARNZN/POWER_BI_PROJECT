@@ -47,6 +47,8 @@ Analyzing the sales data of different states through a column chart which provid
 
 7) Seasonal (Quarterly) Sales Patterns
 
-Analyzing the sales data from 2016 to 2018, the ribbon graph provides a comprehensive visual narrative of the SuperNest store’s performance over these years on a quarterly basis. The graph reveals trends, patterns, and fluctuations in sales across the three years, allowing for a clear understanding of the company’s growth trajectory or potential challenges. This visualization aids in identifying seasonal variations, year-on-year growth on a quarterly basis, or any noteworthy changes in sales patterns, offering valuable insights for strategic planning, resource allocation, and decision-making within the organization.  8) Revenue Analysis
+Analyzing the sales data from 2016 to 2018, the ribbon graph provides a comprehensive visual narrative of the SuperNest store’s performance over these years on a quarterly basis. The graph reveals trends, patterns, and fluctuations in sales across the three years, allowing for a clear understanding of the company’s growth trajectory or potential challenges. This visualization aids in identifying seasonal variations, year-on-year growth on a quarterly basis, or any noteworthy changes in sales patterns, offering valuable insights for strategic planning, resource allocation, and decision-making within the organization.  
+
+8) Revenue Analysis
 
 The graph reveals trends, patterns, and fluctuations in sales across the three years, allowing for a clear understanding of the company’s growth trajectory or potential challenges This visualization aids in identifying year-on-year growth on a quarterly basis, or any noteworthy changes in sales patterns, offering valuable insights for strategic planning, resource allocation, and decision-making within the organization.
