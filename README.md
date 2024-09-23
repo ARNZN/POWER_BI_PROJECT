@@ -5,7 +5,7 @@ The three key steps involved in this project include:
 
 Data Collection
 Data Preparation/Cleaning
-Analysis and Visualization Data Collection The Dataset used in this Dashboard is provided by Skillovilla.   Data Preparation/Cleaning The Data Cleaning involved tasks like handling missing values, removing duplicates, correcting data types, and addressing inconsistencies in columns, ensuring a more accurate and usable dataset for analysis. This phase enabled me to improve the quality of data, and have better insights and decision-making from the Sample SuperNestStore Dataset.   Analysis and Visualization As I mentioned before the goal of this project is to carry out a performance analysis for the store. A performance analysis will answer the following questions:
+Analysis and Visualization Data Collection The Dataset used in this Dashboard is provided by Skillovilla. Data Preparation/Cleaning The Data Cleaning involved tasks like handling missing values, removing duplicates, correcting data types, and addressing inconsistencies in columns, ensuring a more accurate and usable dataset for analysis. This phase enabled me to improve the quality of data, and have better insights and decision-making from the Sample SuperNestStore Dataset. Analysis and Visualization As I mentioned before the goal of this project is to carry out a performance analysis for the store. A performance analysis will answer the following questions:
 
 Top Categories by Total Price
 Delayed Orders Analysis
@@ -22,7 +22,8 @@ Category wise business details are as below :
 
   2) Delayed Orders Analysis
 
-With this analysis we can find particularly in which product category, the products are getting delayed and what are the reasons behind it. It may be low stock availability, Low/ High demand, Size of the product etc. Here we can see the bed bath table followed by health and beauty shows the maximum delay. Further analysis to be done accordingly.   3) Monthly Comparison of Delayed and On-Time Orders Here we have done detailed analysis of late and on-time deliveries. Delayed_Yes - Indicates the deliveries which got delayed Delayed_No - Indicates the deliveries which are on time.
+With this analysis we can find particularly in which product category, the products are getting delayed and what are the reasons behind it. It may be low stock availability, Low/ High demand, Size of the product etc. Here we can see the bed bath table followed by health and beauty shows the maximum delay. Further analysis to be done accordingly.  
+3) Monthly Comparison of Delayed and On-Time Orders Here we have done detailed analysis of late and on-time deliveries. Delayed_Yes - Indicates the deliveries which got delayed Delayed_No - Indicates the deliveries which are on time.
 
 Delayed Order Report Month wise year on year
 
@@ -34,13 +35,17 @@ As per the above visuals, Maximum orders are getting delayed in March,2018 & Apr
 
   4) Payment Method Analysis
 
-Here we are analyzing the most frequently used payment methods by customers. By seeing this we may analyze that maximum number of payments are done by credit card so we may think of any offer to increase the sale through other medium as well and different offers can be given on credit card to increase their sales even further more.  5) Product Rating Analysis
+Here we are analyzing the most frequently used payment methods by customers. By seeing this we may analyze that maximum number of payments are done by credit card so we may think of any offer to increase the sale through other medium as well and different offers can be given on credit card to increase their sales even further more. 
+
+5) Product Rating Analysis
 
 This Analysis represents the product category on the basis of top 10 average reviews and bottom 10 average reviews. CDs and DVDs have got the best reviews which shows the store is dealing with good quality products in the music category. Customers of Security and Services are not satisfied and the store needs to make proper strategies to improve the customer experience
 
   6) State-wise Sales Analysis
 
-Analyzing the sales data of different states through a column chart which provides a comprehensive visual narrative of the SuperNest store’s performance in different states. This visualization aids in offering valuable insights for strategic planning, resource allocation, and decision-making within the organization. The above chart shows that SP is encountering the maximum sales and sales of other states are very less in comparison to SP.  7) Seasonal (Quarterly) Sales Patterns
+Analyzing the sales data of different states through a column chart which provides a comprehensive visual narrative of the SuperNest store’s performance in different states. This visualization aids in offering valuable insights for strategic planning, resource allocation, and decision-making within the organization. The above chart shows that SP is encountering the maximum sales and sales of other states are very less in comparison to SP. 
+
+7) Seasonal (Quarterly) Sales Patterns
 
 Analyzing the sales data from 2016 to 2018, the ribbon graph provides a comprehensive visual narrative of the SuperNest store’s performance over these years on a quarterly basis. The graph reveals trends, patterns, and fluctuations in sales across the three years, allowing for a clear understanding of the company’s growth trajectory or potential challenges. This visualization aids in identifying seasonal variations, year-on-year growth on a quarterly basis, or any noteworthy changes in sales patterns, offering valuable insights for strategic planning, resource allocation, and decision-making within the organization.  8) Revenue Analysis
 
